@@ -50,11 +50,18 @@ font-size: 40px;
 
 h5{
   color: black;
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
 }
+
+h6 {
+    color: green;
+    font-family:'Hammersmith One', sans-serif;
+    font-size: 40px;
+  }
+
 /* Navigation */
 nav button {
   background-image: linear-gradient(to bottom right, rgb(54, 58, 57), black);
